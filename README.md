@@ -4,6 +4,10 @@
 - [x] BLOSUM62 library
 - [ ] Windowing
 
+# Example
+
+![](./example.png)
+
 # License
 
 GPLv3
